@@ -10,4 +10,5 @@ public class TranslateMover : MonoBehaviour {
     {
         transform.Translate(direction * speed *Time.deltaTime);
     }
+
 }
